@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on DSA Leetcode Solution and Python Project.<br>🤝 I'm looking to collaborate on Web and Mobile Apps.<br>🌱 I'm looking to help with DSA.<br>💬 Ask me about DSA and Website development.<br>😄 Fun fact: I juggle between creating YouTube content, working on projects, and acing competitions—multitasking is my superpower.
+🔭 I'm currently working on DSA Leetcode Solution and Python Projects.<br>🤝 I'm looking to collaborate on Web and Mobile Apps.<br>🌱 I'm looking to help with DSA.<br>💬 Ask me about DSA and Website development.<br>😄 Fun fact: I juggle between creating YouTube content, working on projects, and acing competitions—multitasking is my superpower.
 
 
 ## 🌐 Socials:
