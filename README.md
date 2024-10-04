@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on DSA Leetcode Solution, Python Projects, Javascript Projects, and php Projects.<br>🤝 I'm looking to collaborate on Web and Mobile Apps.<br>🌱 I'm looking to help with DSA.<br>💬 Ask me about DSA and Website development.<br>😄 Fun fact: I juggle between creating YouTube content, working on projects, and acing competitions—multitasking is my superpower.
+🔭 I'm currently working on DSA Leetcode Solution, Python Projects, Javascript Projects, and PHP Projects.<br>🤝 I'm looking to collaborate on Web and Mobile Apps.<br>🌱 I'm looking to help with DSA.<br>💬 Ask me about DSA and Website development.<br>😄 Fun fact: I juggle between creating YouTube content, working on projects, and acing competitions—multitasking is my superpower.
 <br>😁  You can checkout my latest game made using JS: https://prajjwal-dev.github.io/Memory_Match_Game/
 
 
